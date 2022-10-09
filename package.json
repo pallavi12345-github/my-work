@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/pallavi12345-github/my-work/issues"
   },
-  "homepage": "https://github.com/pallavi12345-github/my-work#readme"
+  "homepage": "https://github.com/pallavi12345-github/my-work#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.9.1",
+    "jquery": "^3.6.1"
+  }
 }
